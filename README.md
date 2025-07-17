@@ -1,7 +1,7 @@
 # AI Mission Dialogue Path Updater
 Small C# ManagedBlam tool for quickly bulk updating filepaths in a `.ai_mission_dialogue` tag.
 Replaces an existing substring of the filepath with another.
-E.g:
+E.g:  
 "sound\h2_sound\sound\dialog\levels\03_earthcity\mission\l03_8070_grf"  
 |  
 V  
